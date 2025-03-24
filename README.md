@@ -3,6 +3,8 @@
 
 SiteSpy is a web monitoring application that tracks content changes on specified websites. Using AI (OpenAI GPT-4o), it intelligently detects **meaningful changes**, filters out noise, and generates **clear, human-readable reports** with visual diffs.
 
+👉 **[Live Demo](https://sitespy.streamlit.app/)** — Try it instantly in your browser.
+
 ## Features
 
 - 🔄 Periodic monitoring of any list of websites  
